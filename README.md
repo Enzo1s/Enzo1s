@@ -4,7 +4,7 @@ I am a **Full Stack developer**. Always in search of improving everything I have
 
 Skills: JAVA, SQL, HTML, CSS, JAVASCRIPT, TYPESCRIPT
 
-- 🔭 I’m currently working on Website for dietetics and herbalism  (search engine to implement on the web [Link](https://vital-productos.netlify.app/)
+- 🔭 I’m currently working on Website for dietetics and herbalism  (search engine to implement on the web [Web base](https://vital-productos.netlify.app/)
 - 🌱 I’m currently learning I am improving my knowledge in Angular and Microservices with Spring Boot 
 
 
